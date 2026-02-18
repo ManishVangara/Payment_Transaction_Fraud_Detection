@@ -1,8 +1,6 @@
 # Methodology & Data
 ## Payment Transaction Fraud Detection & Financial Monitoring
 
-> This document details the data source, schema, experimental design, feature engineering, model evaluation, and the basis for every metric claimed in the project report. All results are reproducible from the publicly available dataset referenced below.
-
 ---
 
 ## 1. Data Source
