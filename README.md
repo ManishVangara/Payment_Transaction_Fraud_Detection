@@ -1,5 +1,5 @@
-# Methodology & Data
-## Payment Transaction Fraud Detection & Financial Monitoring
+# Payment Transaction Fraud Detection & Financial Monitoring
+## Methodology & Data
 
 ---
 
